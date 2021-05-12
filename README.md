@@ -1366,3 +1366,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 
 - - -
+
+If you have any question about this opinionated list, do not hesitate to contact me.
+
+powerful.php.dev@gmail.com : It is my Email address
